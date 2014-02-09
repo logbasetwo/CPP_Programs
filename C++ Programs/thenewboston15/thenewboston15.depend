@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1389667701 source:c:\users\matthew\desktop\c++ programs\thenewboston15\potatoe.cpp
+	"Potatoe.h"
+	<iostream>
+
+1389667293 c:\users\matthew\desktop\c++ programs\thenewboston15\potatoe.h
+
+1389667689 source:c:\users\matthew\desktop\c++ programs\thenewboston15\main.cpp
+	<iostream>
+	"Potatoe.h"
+

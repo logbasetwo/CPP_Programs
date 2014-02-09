@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1389128323 source:c:\users\user\desktop\c++ programs\helloworld\main.cpp
+	<iostream>
+
+1389128232 source:c:\users\user\desktop\c++ programs\helloworld\test.cpp
+	<stdio.h>
+

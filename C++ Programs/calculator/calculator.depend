@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1389988750 source:c:\users\matthew\desktop\c++ programs\calculator\add.cpp
+	"Add.h"
+	<iostream>
+
+1389987883 c:\users\matthew\desktop\c++ programs\calculator\add.h
+
+1389995880 source:c:\users\matthew\desktop\c++ programs\calculator\main.cpp
+	<iostream>
+	"Add.h"
+	"Sub.h"
+	"Mult.h"
+	"Div.h"
+
+1389987883 c:\users\matthew\desktop\c++ programs\calculator\subtract.h
+
+1389987931 source:c:\users\matthew\desktop\c++ programs\calculator\subtract.cpp
+	"Subtract.h"
+	<iostream>
+
+1389988095 c:\users\matthew\desktop\c++ programs\calculator\sub.h
+
+1389988728 source:c:\users\matthew\desktop\c++ programs\calculator\sub.cpp
+	"Sub.h"
+	<iostream>
+
+1389988728 source:c:\users\matthew\desktop\c++ programs\calculator\mult.cpp
+	"Mult.h"
+	<iostream>
+
+1389988186 c:\users\matthew\desktop\c++ programs\calculator\mult.h
+
+1389988728 source:c:\users\matthew\desktop\c++ programs\calculator\div.cpp
+	"Div.h"
+	<iostream>
+
+1389988370 c:\users\matthew\desktop\c++ programs\calculator\div.h
+
