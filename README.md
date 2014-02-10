@@ -1,4 +1,4 @@
-CPP Programs
+C++ Programs
 ============
 
 
