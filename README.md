@@ -2,4 +2,4 @@ C++ Programs
 ============
 
 
-Full repo of my currect C++ Programs.
+Full repo of my current C++ Programs.
